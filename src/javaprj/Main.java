@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("개발자1");
 		System.out.println("개발자2");
+		System.out.println("개발자3");
 	}
 
 }
